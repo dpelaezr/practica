@@ -1,3 +1,4 @@
+#corrección
 import hashlib
 import os
 #mis funciones
